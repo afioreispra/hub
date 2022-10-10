@@ -7,10 +7,10 @@ SoilmapBulgaria,http://www.issapp-pushkarov.org/,Bulgaria, Soil institute of Bul
 ENVI atlas,http://envi.azo.hr/?topic=3,Croatia,map portal with various soil related themes,
 INSPIRE Geoportal,https://inspire-geoportal.ec.europa.eu/,Europe,A portal which collects environmental data in the scope of INSPIRE directive from memberstates,https://inspire-geoportal.ec.europa.eu/GeoportalProxyWebServices/resources/OGCCSW202/?request=GetCapabilities&service=CSW&version=2.0.1
 EEA data portal,https://www.eea.europa.eu/data-and-maps,Europe,A portal for envirnmental data,https://sdi.eea.europa.eu/catalogue/srv/eng/csw?request=GetCapabilities&service=CSW&version=2.0.1
-ESDAC, https://esdac.jrc.ec.europa.eu/resource-type/datasets,Europe,
-Eurostat, https://ec.europa.eu/eurostat/data/database,Europe,
-Europian data portal, https://data.europa.eu,Europe,
-Bonares, https://www.bonares.de/webportal,Europe,"The BonaRes Portal is a central product of the BonaRes Centre for soil research aiming at a central and targeted provision of research related information and services"
+ESDAC,https://esdac.jrc.ec.europa.eu/resource-type/datasets,Europe,"",
+Eurostat,https://ec.europa.eu/eurostat/data/database,Europe,"",
+Europian-data-portal,https://data.europa.eu,Europe,"",
+Bonares, https://www.bonares.de/webportal,Europe,"The BonaRes Portal is a central product of the BonaRes Centre for soil research aiming at a central and targeted provision of research related information and services",
 SoilBioStore,https://soilbiostore.au.dk/,Denmark,"Soil microarthropod and earthworm data collected by scientists at Department of Bioscience, Aarhus University. Other sources of soil fauna data will also be available",
 ScotlandsSoils,https://soils.environment.gov.scot,Schotland,"Data and information on Scotland’s soils.",https://druid.hutton.ac.uk/arcgis/services/Hutton_SubsoilCompaction_Partial/MapServer/WMSServer?request=GetCapabilities&service=WMS
 GeochemicalAtlasSweden,https://www.geodata.se/geodataportalen,Sweden,Goe chemical atlas Sweden,https://resource.sgu.se/service/atom/inspire/sgu-inspiredownload.xml
