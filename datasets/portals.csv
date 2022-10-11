@@ -14,3 +14,6 @@ Bonares, https://www.bonares.de/webportal,Europe,"The BonaRes Portal is a centra
 SoilBioStore,https://soilbiostore.au.dk/,Denmark,"Soil microarthropod and earthworm data collected by scientists at Department of Bioscience, Aarhus University. Other sources of soil fauna data will also be available",
 ScotlandsSoils,https://soils.environment.gov.scot,Schotland,"Data and information on Scotland’s soils.",https://druid.hutton.ac.uk/arcgis/services/Hutton_SubsoilCompaction_Partial/MapServer/WMSServer?request=GetCapabilities&service=WMS
 GeochemicalAtlasSweden,https://www.geodata.se/geodataportalen,Sweden,Goe chemical atlas Sweden,https://resource.sgu.se/service/atom/inspire/sgu-inspiredownload.xml
+Italian Geoportal,http://www.pcn.minambiente.it/mattm/en/,Italy,managed by the Italian Ministry for Ecological Transition
+Geological Survey of Italy Portal,http://portalesgi.isprambiente.it/en,Italy
+Ecoatlas of Italy,https://ecoatlante.isprambiente.it,Italy,contains a section about soil consumption with dataset and maps, data also available here https://www.isprambiente.gov.it/en/databases/data-base-collection/soil-and-territory/use-of-soil
